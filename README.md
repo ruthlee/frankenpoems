@@ -6,6 +6,8 @@ This is a poetry generator which cobbles together lines from poems that have alr
 
 
 A lot of the work has thankfully already been done with the help of these two repositories: 
+
 [Allison Parrish's gutenberg-poetry corpus for a dataset of lines of poetry and some clever and useful tutorials](https://github.com/aparrish/gutenberg-poetry-corpus/blob/master/quick-experiments.ipynb)
+
 [Laurence Tennant's poetry-tools for meter analysis](https://github.com/hyperreality/Poetry-Tools)
 
