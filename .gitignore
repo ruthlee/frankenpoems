@@ -3,3 +3,4 @@ Poetry-Tools-master/
 token.txt
 .DS_Store
 gutenberg-poetry-v001.ndjson.gz
+gui.py
