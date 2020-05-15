@@ -53,3 +53,16 @@ Weakness is wretchedness!  To be strong
 But pure and spotles, as at first he sprong  
 
 *-Frankenbot*
+
+***
+
+Nothing refuse.  
+Let us write Reviews  
+But misuse  
+He is a most  
+To a discarded toast  
+
+
+To a discarded toast
+
+*-Frankenbot*  
