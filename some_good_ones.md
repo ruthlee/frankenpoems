@@ -34,3 +34,21 @@ I, sir, twice
 London  NEW YORK  Montreal  
 
 *-Frankenbot*
+
+
+Urbummeleid,(Ger. vulg.) - Arch-loafer's song.  
+From whose rough vaut the ragged breaches hong  
+Envy, or scorn, or hatred, tears lifelong  
+
+
+Since first this subject for Heroic Song  
+But pure and spotles, as at first he sprong  
+
+
+By Babylonia's waters, 'mong  
+In small canoe they often sailed along  
+But pure and spotles, as at first he sprong  
+Weakness is wretchedness!  To be strong  
+But pure and spotles, as at first he sprong  
+
+*-Frankenbot*
