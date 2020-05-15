@@ -69,13 +69,13 @@ To a discarded toast
 
 ***
 
-A prize for dancing, country maids
-And Nairrit’s(908) influence that aids
-To this dejected place I came,
-And I was stumped, an' sick, an' lame
-And unsubjected India gall'd his heart!
-But conscious that himself was part
-He ceased ... and in the morning sky
+A prize for dancing, country maids  
+And Nairrit’s(908) influence that aids  
+To this dejected place I came,  
+And I was stumped, an' sick, an' lame  
+And unsubjected India gall'd his heart!  
+But conscious that himself was part  
+He ceased ... and in the morning sky  
 
 *-Frankenbot*  
 
