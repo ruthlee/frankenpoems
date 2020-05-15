@@ -4,6 +4,8 @@ Lots of poetry generators these days are focused on trying to cobble together "o
 
 This is a poetry generator which cobbles together lines from poems that have already been written while paying attention to meter and rhyme to form something that (while perhaps nonsensical in content) still sounds like a, ahem, real poem.
 
+I also tried to make a GUI for it! You can see it by downloading `data.pkl.compress` and `frankenpoem.py` and running `python3 frankenpoem.py` in the terminal after navigating to the directory the files are saved in. The GUI is kind of terrible, so if you don't feel like using the terminal, use the Jupyter Notebook :).  
+
 
 A lot of the work has thankfully already been done with the help of these two repositories: 
 
