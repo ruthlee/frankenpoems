@@ -21,6 +21,8 @@ f.write_poem()
 
 Et voila! A poem should generate. There are no arguments because you have no control over Frankenbot's creative process. He is his own creative entity and should be respected as such.
 
+The repo also contains [a notebook which documents the process of making write_poem()](https://github.com/ruthlee/frankenpoems/blob/master/frankenpoem_demo.ipynb)
+
 ## Sources
 Big shoutout to:
 
