@@ -7,7 +7,7 @@ This is a poetry generator which cobbles together lines from poems that have alr
 In order to spread Frankenbot's genius throughout the world, I made a package with exactly one use case: to run Frankenbot's `write_poem()` command. So you, too, can experience the grandeur of Frankenbot's poetic vision.
 
 ## Installation
-Enter `pip3 install frankenpoem==7.0.0` in your command line and it should world. Or try `pip install frankenpoem==7.0.0`. Make sure you're grabbing the latest version, which is 7.0.0 (...because it took me six tries to get the actual package working and I couldn't be bothered with TestPyPi).
+Enter `pip3 install frankenpoem==7.0.0` in your command line and it should work. Or try `pip install frankenpoem==7.0.0`. Make sure you're grabbing the latest version, which is 7.0.0 (...because it took me six tries to get the actual package working and I couldn't be bothered with TestPyPi).
 
 Warning: you may need to make sure to have the following packages installed (because I don't think I got the package dependencies quite right lol):
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html): this should already be installed if you have the anaconda distribution installed. But if you don't, you may likely have to install this before using Frankenpoem... 
