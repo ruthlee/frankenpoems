@@ -14,6 +14,8 @@ Warning: you may need to make sure to have the following packages installed (bec
 - [pronouncing](https://pypi.org/project/pronouncing/): just install with `pip install pronouncing` if needed. This should install with Frankenpoem, so don't worry about it. 
 - collections, re, random: you shouldn't need to install these if you have an up-to-date python interpreter because they're built-in modules, but ya know. 
 
+If this doesn't work for you ack gah let me know and I will try to fix it... 
+
 ## Usage
 In the terminal, go to your python interpreter (for me I just type `python3`). Then:
 
