@@ -7,14 +7,14 @@ This is a poetry generator which cobbles together lines from poems that have alr
 In order to spread Frankenbot's genius throughout the world, I made a package with exactly one use case: to run Frankenbot's `write_poem()` command. So you, too, can experience the grandeur of Frankenbot's poetic vision.
 
 ## Installation
-Enter `pip3 install frankenpoem==7.0.0` in your command line and it should work. Or try `pip install frankenpoem==7.0.0`. Make sure you're grabbing the latest version, which is 7.0.0 (...because it took me six tries to get the actual package working and I couldn't be bothered with TestPyPi).
+Enter `pip3 install frankenpoem` in your command line and it should work. Or try `pip install frankenpoem`. Make sure you're grabbing the latest version, which is 7.0.0 (...because it took me six tries to get the actual package working and I couldn't be bothered with TestPyPi). If needed, you can specify installing this version by inputting `pip3 install frankenpoem==7.0.0` but just pip installing should install the latest version........
 
-Warning: you may need to make sure to have the following packages installed (because I don't think I got the package dependencies quite right lol):
-- [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html): this should already be installed if you have the anaconda distribution installed. But if you don't, you may likely have to install this before using Frankenpoem... 
-- [pronouncing](https://pypi.org/project/pronouncing/): just install with `pip install pronouncing` if needed. This should install with Frankenpoem, so don't worry about it. 
-- collections, re, random: you shouldn't need to install these if you have an up-to-date python interpreter because they're built-in modules, but ya know. 
+If you have trouble installing, it may be an issue with installing some of the package dependencies (this happened when I tested on a Windows machine running Ubuntu because pip couldn't install the pandas package successfully). Below is a list of dependent packages to help you debug, if needed: 
+- [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html): this should already be installed if you have the anaconda distribution installed. 
+- [pronouncing](https://pypi.org/project/pronouncing/)
+- collections, re, random: you shouldn't need to install these if you have an up-to-date python interpreter because they're built-in modules, but ya know. For debugging.  
 
-If this doesn't work for you ack gah let me know and I will try to fix it... 
+If you have installation issues ack gah let me know :)  
 
 ## Usage
 In the terminal, go to your python interpreter (for me I just type `python3`). Then:
