@@ -93,8 +93,8 @@ My courage, toppled in the dust,
 My courage, toppled in the dust,  
 
 
-Yet I have found him cruel and unjust. 
-And looking round I felt disgust. 
+Yet I have found him cruel and unjust.   
+And looking round I felt disgust.  
 
 *-Frankenbot*  
 
