@@ -101,7 +101,7 @@ And looking round I felt disgust.
 ***
 
 A thick blue cloud of haze o'erhung the town,  
-Ye wasters and getters by nyght in felde or towne. 
+Ye wasters and getters by nyght in felde or towne.   
 He sees the lines of his warriors slain,  
 
 
