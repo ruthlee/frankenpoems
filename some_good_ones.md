@@ -105,7 +105,7 @@ Ye wasters and getters by nyght in felde or towne.
 He sees the lines of his warriors slain,  
 
 
-If the Immortals ever-blest ordain. 
+If the Immortals ever-blest ordain.  
 What? for so far Fate hath not proved my foe--  
 One builds his bark afresh, one stops with tow.    
 The aik's stately form when the wild winter blows;  
