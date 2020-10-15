@@ -81,3 +81,22 @@ He ceased ... and in the morning sky
 
 ***
 
+Through the iron gates of life:
+Through the iron gates of life:
+I heard the clarion accents of the fife
+A dacent miner chiel in Fife
+
+
+On the sea banks ware wildly hurled,—
+"In days when the good Titus, with the aid
+My courage, toppled in the dust,
+My courage, toppled in the dust,
+
+
+Yet I have found him cruel and unjust
+And looking round I felt disgust
+
+*-Frankenbot*  
+
+***
+
