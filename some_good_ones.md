@@ -109,7 +109,7 @@ If the Immortals ever-blest ordain.
 What? for so far Fate hath not proved my foe--  
 One builds his bark afresh, one stops with tow.    
 The aik's stately form when the wild winter blows;  
-If god sholde them to other shape transpose. 
+If god sholde them to other shape transpose.  
 Wrapping the mists round her withering form,   
 Yet even these would listen and conform   
 Some say that here a murder has been done,  
