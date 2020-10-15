@@ -17,7 +17,7 @@ If you have trouble installing, it may be an issue with installing some of the p
 If you have installation issues ack gah let me know :)  
 
 ## Usage
-In the terminal, go to your python interpreter (for me I just type `python3`). Then:
+In the terminal, go to your python interpreter (for me I just type `python`). Then:
 
 ```python
 import frankenpoem as f
