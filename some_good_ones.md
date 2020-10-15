@@ -115,3 +115,15 @@ Yet even these would listen and conform
 Some say that here a murder has been done,  
 
 *-Frankenbot* 
+
+***
+
+Then away, etc.  
+Latin phrase.  
+Latin phrase.  
+
+
+Yet, tell him how to die  
+That all that is done.  
+
+*-Frankenbot* 
